@@ -1,4 +1,6 @@
 # Tweets Sentiment Analysis
+![image](https://github.com/user-attachments/assets/233b46d2-1a6c-496d-9dab-8c1ba3a9a269)
+
 
 This notebook performs a comprehensive sentiment analysis pipeline on textual data.  
 The goal is to clean, preprocess, and extract meaningful insights from the data using natural language processing (NLP) techniques. The steps include:
