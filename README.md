@@ -28,18 +28,3 @@ Visualize the results to better understand sentiment distributions and key insig
 	•	emoji
 	•	langdetect
 	•	NLP techniques
-
-⸻
-
-✅ Now, when you copy this into your GitHub README.md, it will display exactly like proper bullet points, headings, and spacing!
-
-⸻
-
-Optional:
-
-If you want, I can also:
-	•	Add emojis for more fun
-	•	Add collapsible sections (for clean look)
-	•	Add usage instructions
-	•	Add sample output images (you uploaded one screenshot, I can show you how!)
-	•	Add badges (Python, GitHub stars, etc.)
