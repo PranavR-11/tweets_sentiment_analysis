@@ -23,9 +23,9 @@ Apply sentiment analysis models to classify text as positive, negative, or neutr
 Visualize the results to better understand sentiment distributions and key insights.
 
 📊 Tech Stack
-	•	Python
-	•	pandas
-	•	re (Regular Expressions)
-	•	emoji
-	•	langdetect
-	•	NLP techniques
+•	Python
+•	pandas
+•	re (Regular Expressions)
+•	emoji
+•	langdetect
+•	NLP techniques
